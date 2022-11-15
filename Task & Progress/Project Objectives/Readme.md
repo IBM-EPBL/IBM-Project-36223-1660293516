@@ -1,3 +1,6 @@
+Project Objectives
+
+
 By the end of this project:
 1. You’ll be able to understand the problem to classify if it is a regression or a classification kind of problem.. 1
 
