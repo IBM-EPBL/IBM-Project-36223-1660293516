@@ -1,4 +1,4 @@
-<PROJECT OBJECTIVES>
+PROJECT OBJECTIVES
 
 
 By the end of this project:
